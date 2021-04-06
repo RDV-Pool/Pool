@@ -3,6 +3,5 @@
   "ticker": "RDV",
   "description": "Independant French ADA Pool / Pool ADA Independante Francaise",
   "homepage": "http://www.rendez-vous-pool.fr/",
-  "nonce": "1617711599",
-  "extended": "https://foo.com/metadata/extended.json"
+  "nonce": "1617711599"
 }
